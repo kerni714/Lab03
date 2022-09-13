@@ -1,6 +1,6 @@
 Package: Lab03
 Title: Euclids and Dijkstras algorithms
-Version: 0.0.0.9000
+Version: 1.0
 Authors@R: 
     person("Kerstin", "Nilsson", , "kerstin.nilsson@student.liu.se", role = c("aut", "cre"))
 Description: Uses Euclids algorithm to calculate greatest common divisor, and uses Dijkstras algorithm
