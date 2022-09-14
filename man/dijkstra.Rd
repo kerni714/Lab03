@@ -2,7 +2,7 @@
 % Please edit documentation in R/dijkstra.R
 \name{dijkstra}
 \alias{dijkstra}
-\title{dijkstra}
+\title{Dijkstra's algorithm}
 \usage{
 dijkstra(graph, init_node)
 }
@@ -19,7 +19,10 @@ dijkstra(graph, init_node)
 vector with distances
 }
 \description{
-dijkstra
+This version of Dijkstra's algorithm finds the shortest path from a source
+node to every other node a graph.
+See \url{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm} for more
+information regarding Dijkstra's algorithm.
 }
 \examples{
 wiki_graph <-

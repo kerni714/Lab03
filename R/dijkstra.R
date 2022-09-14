@@ -1,4 +1,10 @@
-#' dijkstra
+#' Dijkstra's algorithm
+#'
+#' This version of Dijkstra's algorithm finds the shortest path from a source
+#' node to every other node a graph.
+#' See \url{https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm} for more
+#' information regarding Dijkstra's algorithm.
+#'
 #'
 #' @param graph - dataframe with variables for edges v1 and v2 and weight w
 #' @param init_node - start node to calculate distances from
